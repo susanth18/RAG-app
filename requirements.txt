@@ -1,0 +1,10 @@
+flask
+pinecone-client
+openai
+python-dotenv
+pymysql
+requests
+beautifulsoup4
+lxml
+tiktoken
+numpy

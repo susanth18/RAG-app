@@ -1,0 +1,58 @@
+Title: A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging
+
+CNN
+—
+US
+stocks
+dropped sharply Monday — and chipmaker Nvidia lost nearly $600 billion in market value — after a surprise advancement from a Chinese artificial intelligence company,
+DeepSeek
+, threatened the aura of invincibility surrounding America’s technology industry.
+DeepSeek
+, a one-year-old startup, revealed a stunning capability last week: It presented a ChatGPT-like AI model called R1, which has all the familiar abilities, operating at a fraction of the cost of OpenAI’s, Google’s or Meta’s popular AI models. The company said it had spent just $5.6 million on computing power for its base model, compared with the hundreds of millions or billions of dollars US companies spend on their AI technologies.
+That sent shockwaves through markets, in particular the tech sector, on Monday.
+The tech-heavy Nasdaq plunged by 3.1% and the broader S&P 500 fell 1.5%. The Dow, boosted by health care and consumer companies that could be hurt by AI, was up 289 points, or about 0.7% higher. Stock market losses were far deeper at the beginning of the day.
+Meta last week said it would spend upward of $65 billion this year on AI development. Sam Altman, CEO of OpenAI, last year said the AI industry would need
+trillions of dollars
+in investment to support the development of in-demand chips needed to power the electricity-hungry data centers that run the sector’s complex models.
+Marc Andreessen, a supporter of President Donald Trump and one of the world’s leading tech investors, called DeepSeek “one of the most amazing and impressive breakthroughs I’ve ever seen,” in
+a post on X
+.
+The stunning achievement from a relatively unknown AI startup becomes even more shocking when considering that the United States for years has worked to
+restrict the supply of high-power AI chips to China
+, citing national security concerns. That means DeepSeek was able to achieve its low-cost model on under-powered AI chips.
+Tech stocks tumble
+US tech stocks got hammered Monday.
+Nvidia (
+NVDA
+), the leading supplier of AI chips, fell nearly 17% and lost $588.8 billion in market value — by far the most market value a stock has ever lost in a single day, more than doubling the
+previous record of $240 billion
+set by Meta nearly three years ago.
+For perspective, Nvidia lost more in market value Monday than all but 13 companies are worth — period. Nvidia began the day as the most valuable publicly traded stock on the market — over $3.4 trillion — after its shares more than doubled in each of the past two years. It ended the day in third place behind Apple and Microsoft.
+Meta (
+META
+) and Alphabet (
+GOOGL
+), Google’s parent company, were also down sharply. Nvidia competitors Marvell, Broadcom, Micron and TSMC all fell sharply, too. Oracle (
+ORCL
+), Vertiv, Constellation, NuScale and other energy and data center companies tumbled.
+That dragged down the broader stock market, because tech stocks make up a significant chunk of the market — tech constitutes about 45% of the S&P 500, according to Keith Lerner, analyst at Truist.
+“The bottom line is the US outperformance has been driven by tech and the lead that US companies have in AI,” Lerner said. “The DeepSeek model rollout is leading investors to question the lead that US companies have and how much is being spent and whether that spending will lead to profits (or overspending).”
+This week kicks off a series of tech companies reporting earnings, so their response to the DeepSeek stunner could lead to tumultuous market movements in the days and weeks to come. In the meantime, investors are taking a closer look at Chinese AI companies.
+“Chinese tech companies, including new entrants like DeepSeek, are trading at significant discounts due to geopolitical concerns and weaker global demand,” said Charu Chanana, chief investment strategist at Saxo. “DeepSeek’s rise could spark renewed investor interest in undervalued Chinese AI companies, providing an alternative growth story.”
+A massive rotation out of AI bets
+The news also sparked a huge change in investments in non-technology companies on Wall Street.
+Energy companies had been traded up significantly higher in recent years because of the massive amounts of electricity needed to power AI data centers. But they all plummeted Monday. Constellation Energy (
+CEG
+), the company behind the planned revival of the Three Mile Island nuclear plant for powering AI, fell 21% Monday. Competitors like Vistra (
+VST
+) fell 28% and GE Vernova (
+GEV
+) was down 21%.
+Futures for natural gas, used to power electricity generators, tumbled 5.9%. Oil fell more than 2%.
+Bitcoin and other cryptocurrencies also tumbled.
+Is this for real?
+One achievement, albeit a gobsmacking one, may not be enough to counter years of progress in American AI leadership. And a massive customer shift to a Chinese startup is unlikely. So the market selloff may be a bit overdone — or perhaps investors were looking for an excuse to sell.
+“Time will tell if the DeepSeek threat is real — the race is on as to what technology works and how the big Western players will respond and evolve,” said Michael Block, market strategist at Third Seven Capital. “Markets had gotten too complacent on the beginning of the Trump 2.0 era and may have been looking for an excuse to pull back — and they got a great one here.”
+The industry is also taking the company at its word that the cost was so low. No one is really disputing it, but the market freak-out hinges on the truthfulness of a single and relatively unknown company.
+Although the cost-saving achievement may be significant, the R1 model is a ChatGPT competitor – a consumer-focused large-language model. It hasn’t yet proven it can handle some of the massively ambitious AI capabilities for industries that – for now – still require tremendous infrastructure investments.
+“Thanks to its rich talent and capital base, the US remains the most promising ‘home turf’ from which we expect to see the emergence of the first self-improving AI,” said Giuseppe Sette, president of AI market research firm Reflexivity.
