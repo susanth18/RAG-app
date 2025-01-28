@@ -8,11 +8,10 @@ This guide will walk you through setting up and running the RAG (Retrieval-Augme
 
 ## Step 1: Clone the Repository
 
-Clone the repository to your local machine:
-
-    ```bash
-      git clone https://github.com/your-username/RAG.git
-      cd RAG-app
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/RAG.git
+   cd RAG-app
 
 ## Step 2: Set Up MySQL Database
 
@@ -53,7 +52,7 @@ Clone the repository to your local machine:
    MYSQL_PASSWORD="root"
    MYSQL_DB="chatbot_db"
 
-##Install Dependencies
+## Install Dependencies
 Use the `pip install -r requirements.txt` to install the dependencies
 
 
