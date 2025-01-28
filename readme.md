@@ -1,3 +1,8 @@
+# Demo Picture
+![Project Screenshot](demo.png)
+
+
+
 # RAG Application Setup Guide
 
 This guide will walk you through setting up and running the RAG (Retrieval-Augmented Generation) application that will answer queries related to DeepSeek. Follow the steps below to get started.
