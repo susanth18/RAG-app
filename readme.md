@@ -65,8 +65,8 @@ Use the `pip install -r requirements.txt` to install the dependencies
    ```bash
    http://localhost:5000
 
-## Demo Questions
-1) Why did the US stocks fell?
+## Demo Queries
+1) Effect of DeepSeek on US stocks.
 2) Comparison between DeepSeek and GPT.
 
 
