@@ -1,5 +1,5 @@
 # Demo Picture
-![Project Screenshot](demo.png)
+![Project Screenshot](demo.jpg)
 
 
 
